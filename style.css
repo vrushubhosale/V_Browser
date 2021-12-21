@@ -1,0 +1,65 @@
+body{
+    background-size : cover;
+}
+/*-----Home Screen Start-----*/
+#link{
+width:80%;
+height:6%;
+border:1px solid #000;
+box-shadow: 2px 2px 2px #000;
+border-radius:20px;
+font-size:25px;
+font-style: italic;
+margin-top: 10px;
+}
+
+#voice_search{
+    width:fit-content;
+    height:fit-content;
+    border-radius:20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#search{
+    width:fit-content;
+    height:fit-content;
+    border-radius:20px;
+}
+
+#social_media{
+    height:45% ;
+    scroll-behavior: true ;
+    margin-left: 20px;
+}
+
+#loading{
+    background: blue ;
+    font-size:30px;
+    color: red ;
+}
+
+#Home_Button{
+    width:fit-content;
+    height:fit-content;
+    border-radius:20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#Facebook{
+    margin: 10px;
+}
+
+#Twitter{
+    margin: 10px;
+}
+
+#Reddit{
+    margin: 10px;
+}
+
+#YouTube{
+    margin: 10px;
+}
+/*-----Home Screen End-----*/
